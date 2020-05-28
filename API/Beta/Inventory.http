@@ -1,0 +1,72 @@
+
+@baseURI = betaservices.ironsolutions.com/ironservicestack
+@sessionId = {{login.response.body.sessionId}}
+@browserId = {{login.response.body.meta.BrowserId}}
+@IW_NO = "2990824"
+@paginated = page=1&pageSize=20
+
+
+### AUTHENTICATION
+# @name login
+POST {{baseURI}}/authenticate/credentials
+Content-Type: application/json
+Accept: application/json
+
+{
+    "UserName": "proinvadmin@usigqa.com",
+    "Password": "This is a test!",
+    "RememberMe":  true
+}
+
+### GET CREDITS AVAILABLE
+GET {{baseURI}}/accounts/credits
+Content-Type: application/json
+Accept: application/json
+X-ss-id: {{sessionId}}
+X-ss-pid: {{sessionId}}
+X-iron-browserId: {{browserId}}
+
+
+### GET INVENTORY LIST
+GET {{baseURI}}/inventory?Page=1&PageSize=20
+Accept: application/json
+X-ss-id: {{sessionId}}
+X-ss-pid: {{sessionId}}
+X-iron-browserId: {{browserId}}
+
+### GET INVENTORY ITEM
+GET {{baseURI}}/inventory/{{IW_NO}}
+Accept: application/json
+X-ss-id: {{sessionId}}
+X-ss-pid: {{sessionId}}
+X-iron-browserId: {{browserId}}
+
+### GET APPRAISABLE INVENTORY
+GET {{baseURI}}/inventory/appraise/available?{{paginated}}&isAppraisable=true
+Accept: application/json
+X-ss-id: {{sessionId}}
+X-ss-pid: {{sessionId}}
+X-iron-browserId: {{browserId}}
+
+### APPRAISE INVENTORY ITEMS
+POST {{baseURI}}/inventory/appraise
+Content-Type: application/json
+Accept: application/json
+X-ss-id: {{sessionId}}
+X-ss-pid: {{sessionId}}
+X-iron-browserId: {{browserId}}
+
+{
+	"IronNumber": [
+        {{IW_NO}}
+    ]
+}
+
+### GET INVENTORY WITH FILTERS
+GET {{baseURI}}/inventory/temporaryuploadequipment
+Accept: application/json
+X-ss-id: {{sessionId}}
+X-ss-pid: {{sessionId}}
+X-iron-browserId: {{browserId}}
+
+

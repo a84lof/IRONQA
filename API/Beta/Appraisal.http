@@ -1,0 +1,41 @@
+@baseURI = betaservices.ironsolutions.com/ironservicestack
+@sessionId = {{login.response.body.sessionId}}
+@browserId = {{login.response.body.meta.BrowserId}}
+@appraisalId = "258274"
+@lat = "25.653866"
+@long = "-80.353337"
+
+
+### AUTHENTICATION
+# @name login
+POST {{baseURI}}/authenticate/credentials HTTP/1.1
+Content-Type: application/json
+Accept: application/json
+
+{
+    "UserName": "proinvadmin@usigqa.com",
+    "Password": "",
+    "RememberMe":  true
+}
+
+### GET CREDITS AVAILABLE
+GET {{baseURI}}/accounts/credits HTTP/1.1
+Content-Type: application/json
+X-ss-id: {{sessionId}}
+X-ss-pid: {{sessionId}}
+X-iron-browserId: {{browserId}}
+Accept: application/json
+
+### GET GUIDES APPRAISAL
+GET {{baseURI}}/appraisals/{{appraisalId}}
+X-ss-id: {{sessionId}}
+X-ss-pid: {{sessionId}}
+X-iron-browserId: {{browserId}}
+Accept: application/json
+
+### GET APPRAISAL COMPARABLES
+GET {{baseURI}}/appraisals/{{appraisalId}}/comparables?{{lat}}&{{long}}
+X-ss-id: {{sessionId}}
+X-ss-pid: {{sessionId}}
+X-iron-browserId: {{browserId}}
+Accept: application/json

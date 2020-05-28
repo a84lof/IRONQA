@@ -1,0 +1,13 @@
+bin/Debug/netcoreapp3.0/IRONQA.dll
+bin/Debug/netcoreapp3.0/IRONQA.pdb
+bin/Debug/netcoreapp3.0/nunit_random_seed.tmp
+obj/Debug/netcoreapp3.0/IRONQA.dll
+obj/Debug/netcoreapp3.0/IRONQA.pdb
+obj/IRONQA.csproj.nuget.cache
+obj/IRONQA.csproj.nuget.g.props
+obj/IRONQA.csproj.nuget.g.targets
+obj/project.assets.json
+.DS_Store
+IRONQA/TESTRUN/TestLog.txt
+IRONQA/GUIDES/OTHER.EvaluatorResponse.txt
+IRONQA/GUIDES/OTHER.test.xml

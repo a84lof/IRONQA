@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<evaluator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:../../UxEvaluator.xsd">
+    <requests>
+        <auth>
+            <clientId>ux</clientId>
+            <dealerId>123456</dealerId>
+            <email>qa@ironsolutions.com</email>
+            <tier>2</tier>
+        </auth>
+        <requestId>19292948191291</requestId>
+        <timestamp>24/12/2011 16:00:00 PM UTC</timestamp>
+        <request>
+            <returnVariableUsageAdjustmentRequest>
+                <pricingDate>2019-10-10</pricingDate>
+                <typeCode>RB</typeCode>
+                <modelYear>1988</modelYear>
+                <userHours>15000</userHours>
+                <makeCode>JD</makeCode>
+                <model>330</model>
+                <issueRegionCode>C</issueRegionCode>
+                <guideIndustry>AG</guideIndustry>
+            </returnVariableUsageAdjustmentRequest>
+        </request>
+    </requests>
+</evaluator>

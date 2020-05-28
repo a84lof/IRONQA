@@ -1,0 +1,763 @@
+
+05/15/2020 14:30:39
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Driver Closed.
+End Of Test.
+
+05/15/2020 14:33:03
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Driver Closed.
+End Of Test.
+
+05/15/2020 14:33:32
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Variable Usage Displayed by Default.
+Driver Closed.
+End Of Test.
+
+05/15/2020 14:35:21
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Confirmed Iron Base Values Table.
+Confirmed Iron Appraiser Values Table.
+Variable Usage Displayed by Default.
+Driver Closed.
+End Of Test.
+
+05/15/2020 14:37:45
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Confirmed Iron Base Values Table.
+Confirmed Iron Appraiser Values Table.
+Variable Usage Displayed by Default.
+Driver Closed.
+End Of Test.
+
+05/15/2020 14:39:22
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Confirmed Iron Base Values Table.
+Confirmed Iron Appraiser Values Table.
+Variable Usage Displayed by Default.
+
+05/15/2020 14:42:18
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Confirmed Iron Base Values Table.
+Confirmed Iron Appraiser Values Table.
+Variable Usage Displayed by Default.
+
+05/15/2020 14:45:04
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Confirmed Iron Base Values Table.
+Confirmed Iron Appraiser Values Table.
+Variable Usage Displayed by Default.
+Driver Closed.
+End Of Test.
+
+05/15/2020 14:47:52
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Confirmed Iron Base Values Table.
+Confirmed Iron Appraiser Values Table.
+Variable Usage Displayed by Default.
+Clicked Custom Adjustment Checkbox.
+Entered Custom Adjustment
+Driver Closed.
+End Of Test.
+
+05/15/2020 14:49:22
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Confirmed Iron Base Values Table.
+Confirmed Iron Appraiser Values Table.
+Variable Usage Displayed by Default.
+Clicked Custom Adjustment Checkbox.
+
+05/15/2020 14:53:49
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Confirmed Iron Base Values Table.
+Confirmed Iron Appraiser Values Table.
+Variable Usage Displayed by Default.
+
+05/15/2020 14:58:22
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Confirmed Iron Base Values Table.
+Confirmed Iron Appraiser Values Table.
+Variable Usage Displayed by Default.
+Clicked Custom Adjustment Checkbox.
+Entered Custom Adjustment
+Driver Closed.
+End Of Test.
+
+05/15/2020 15:00:09
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Confirmed Iron Base Values Table.
+Confirmed Iron Appraiser Values Table.
+Variable Usage Displayed by Default.
+Clicked Custom Adjustment Checkbox.
+Entered Custom Adjustment
+Driver Closed.
+End Of Test.
+
+05/15/2020 15:04:12
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Driver Closed.
+End Of Test.
+
+05/15/2020 15:04:38
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Confirmed Iron Base Values Table.
+Confirmed Iron Appraiser Values Table.
+Variable Usage Displayed by Default.
+Clicked Custom Adjustment Checkbox.
+Entered Custom Adjustment
+Driver Closed.
+End Of Test.
+
+05/15/2020 15:06:10
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Driver Closed.
+End Of Test.
+
+05/15/2020 15:06:37
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Confirmed Iron Base Values Table.
+Confirmed Iron Appraiser Values Table.
+Variable Usage Displayed by Default.
+Clicked Custom Adjustment Checkbox.
+Entered Custom Adjustment
+Driver Closed.
+End Of Test.
+
+05/15/2020 15:07:20
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Confirmed Iron Base Values Table.
+Confirmed Iron Appraiser Values Table.
+Variable Usage Displayed by Default.
+Clicked Custom Adjustment Checkbox.
+Entered Custom Adjustment
+Driver Closed.
+End Of Test.
+
+05/15/2020 15:08:50
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Confirmed Iron Base Values Table.
+Confirmed Iron Appraiser Values Table.
+Variable Usage Displayed by Default.
+Clicked Custom Adjustment Checkbox.
+Entered Custom Adjustment
+Driver Closed.
+End Of Test.
+
+05/15/2020 15:09:58
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Confirmed Iron Base Values Table.
+Confirmed Iron Appraiser Values Table.
+Variable Usage Displayed by Default.
+Clicked Custom Adjustment Checkbox.
+Entered Custom Adjustment
+Driver Closed.
+End Of Test.
+
+05/15/2020 15:11:42
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Confirmed Iron Base Values Table.
+Confirmed Iron Appraiser Values Table.
+Variable Usage Displayed by Default.
+Clicked Custom Adjustment Checkbox.
+Entered Custom Adjustment
+Driver Closed.
+End Of Test.
+
+05/15/2020 15:12:58
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Confirmed Iron Base Values Table.
+Confirmed Iron Appraiser Values Table.
+Variable Usage Displayed by Default.
+Clicked Custom Adjustment Checkbox.
+Entered Custom Adjustment
+Driver Closed.
+End Of Test.
+
+05/15/2020 15:14:47
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Confirmed Iron Base Values Table.
+Confirmed Iron Appraiser Values Table.
+Variable Usage Displayed by Default.
+Clicked Custom Adjustment Checkbox.
+Entered Custom Adjustment
+Confirmed Custom Adjustment Calculation
+Driver Closed.
+End Of Test.
+
+05/15/2020 15:15:41
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+BasicUser@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Confirmed Iron Base Values Table.
+Confirmed Iron Appraiser Values Table.
+Variable Usage Displayed by Default.
+Clicked Custom Adjustment Checkbox.
+Entered Custom Adjustment
+Confirmed Custom Adjustment Calculation
+Driver Closed.
+End Of Test.
+
+05/15/2020 15:16:27
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+PlusAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Confirmed Iron Base Values Table.
+Confirmed Iron Appraiser Values Table.
+Variable Usage Displayed by Default.
+Clicked Custom Adjustment Checkbox.
+Entered Custom Adjustment
+Confirmed Custom Adjustment Calculation
+Clicked Check Comparables.
+On Step 3
+Driver Closed.
+End Of Test.
+
+05/15/2020 15:40:17
+Opened Browser & Navigated to URL
+Executed Script
+On Login Page.
+ProAdmin@usigqa.com Logged In
+Executed Script
+On SSO Home Page.
+Element clicked.
+Switched to last tab.
+On new tab.
+Clicked IronGuides.
+Executed Script
+On Dashboard
+Clicked Start Appraisal.
+Clicked Agriculture Equipment.
+On Step 1.
+Selected Region: Montana
+Selected Type: Combine
+Selected Make: John Deere
+Selected Model: S670
+Selected Year 2017
+Entered Serial Number
+Clicked Lookup Value Button
+On Step 2
+Confirmed Iron Base Values Table.
+Confirmed Iron Appraiser Values Table.
+Variable Usage Displayed by Default.
+Clicked Custom Adjustment Checkbox.
+Entered Custom Adjustment
+Confirmed Custom Adjustment Calculation
+Driver Closed.
+End Of Test.

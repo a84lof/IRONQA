@@ -1,0 +1,57 @@
+{
+    "soldReportsList": [
+        {
+            "dealerNumberType": "Iron",
+            "dealerNumber": "String",
+            "typeCode": "String",
+            "makeCode": "String",
+            "model": "String",
+            "year": 0,
+            "reportType": "Cash",
+            "soldPrice": 0,
+            "costPrice": 0,
+            "bookValue": 0,
+            "advertisedPrice": 0,
+            "dateSold": "\/Date(-62135596800000-0000)\/",
+            "customerType": "0",
+            "customerCity": "String",
+            "customerState": "String",
+            "stockNumber": "String",
+            "serialNumber": "String",
+            "ironNumber": 0,
+            "inventoryType": "UsedInventory",
+            "currency": "String",
+            "condition": 0,
+            "conditionComments": "String",
+            "inventoryDateAdded": "\/Date(-62135596800000-0000)\/",
+            "warrantyType": "Unknown",
+            "warrantyDescription": "String",
+            "warrantyEndDate": "\/Date(-62135596800000-0000)\/",
+            "sizesOrMeters": [
+                {
+                    "recordType": "M",
+                    "code": "String",
+                    "value": 0
+                }
+            ],
+            "options": [
+                {
+                    "code": "String",
+                    "description": "String",
+                    "quantity": 0,
+                    "value": 0,
+                    "currency": "String"
+                }
+            ],
+            "otherCosts": [
+                {
+                    "refNumber": "String",
+                    "costType": "WorkOrder",
+                    "cost": 0,
+                    "description": "String",
+                    "dateStamp": "\/Date(-62135596800000-0000)\/"
+                }
+            ]
+        }
+    ]
+}
